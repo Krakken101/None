@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/wood-591631_1280.jpg";
+import image from "src/images/wood-591631_1280.jpg";
 
 const imageAltText = "wood";
 
