@@ -24,7 +24,7 @@ const imageAltText = "textile";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Am a passionate Kenyan student deeply enamored with technology, my career goals revolve around becoming a proficient cloud engineer, where I aspire to seamlessly integrate cutting-edge solutions to elevate and optimize digital landscapes.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Embracing my Kenyan roots, I find inspiration in the vibrant convergence of tradition and modernity, fueling my enthusiasm for technology. Aiming to become a cloud engineer, I envision sculpting digital infrastructures that not only transcend geographical boundaries but also empower communities through innovation. My journey is guided by the words of Steve Jobs: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." This philosophy resonates deeply with me, fortifying my commitment to merging passion and profession on the dynamic canvas of technology.";
 
 const About = () => {
   return (
